@@ -283,9 +283,10 @@ A: 重新登录获取新的Token，或者配置Token自动刷新机制。
 ## 联系方式
 
 如有问题或建议，请联系：
-- 邮箱: developer@example.com
-- 项目地址: https://github.com/example/course-design-platform
+- 邮箱: yige.ss@foxmail.com
+- 项目地址: ***
 
 ---
 
 **注意**: 这是一个课程设计项目，仅用于学习和教学目的。在生产环境使用前，请进行充分的安全测试和性能优化。
+
